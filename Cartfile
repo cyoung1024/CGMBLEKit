@@ -1,2 +1,2 @@
 github "LoopKit/LoopKit" ~> 2.0
-github "cyoung1024/dexcom-share-client-swift" "nightscoutshareclient"
+github "cyoung1024/dexcom-share-client-swift" "perso"
